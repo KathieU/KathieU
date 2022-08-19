@@ -7,9 +7,9 @@ I am a Web Developer based in Lagos, Nigeria. I am also graduate of Electrical a
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Reactjs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: I am currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I am currently learning HTML, CSS, JavaScript and Reactjs.
+- 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1roT88lUPVXoE7gO1b8CtL61bHFt8NCF6/view?usp=sharing) and contact me by emailing udoh.cath@gmail.com.
 
